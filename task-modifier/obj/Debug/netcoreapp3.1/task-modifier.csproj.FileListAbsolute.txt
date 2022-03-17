@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\task-modifier\task-modifier\bin\Debug\netcoreapp3.1\task-modifier.exe
+C:\Users\user\Desktop\task-modifier\task-modifier\bin\Debug\netcoreapp3.1\task-modifier.deps.json
+C:\Users\user\Desktop\task-modifier\task-modifier\bin\Debug\netcoreapp3.1\task-modifier.runtimeconfig.json
+C:\Users\user\Desktop\task-modifier\task-modifier\bin\Debug\netcoreapp3.1\task-modifier.runtimeconfig.dev.json
+C:\Users\user\Desktop\task-modifier\task-modifier\bin\Debug\netcoreapp3.1\task-modifier.dll
+C:\Users\user\Desktop\task-modifier\task-modifier\bin\Debug\netcoreapp3.1\task-modifier.pdb
+C:\Users\user\Desktop\task-modifier\task-modifier\obj\Debug\netcoreapp3.1\task-modifier.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\task-modifier\task-modifier\obj\Debug\netcoreapp3.1\task-modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\task-modifier\task-modifier\obj\Debug\netcoreapp3.1\task-modifier.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\task-modifier\task-modifier\obj\Debug\netcoreapp3.1\task-modifier.AssemblyInfo.cs
+C:\Users\user\Desktop\task-modifier\task-modifier\obj\Debug\netcoreapp3.1\task-modifier.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\task-modifier\task-modifier\obj\Debug\netcoreapp3.1\task-modifier.dll
+C:\Users\user\Desktop\task-modifier\task-modifier\obj\Debug\netcoreapp3.1\task-modifier.pdb
+C:\Users\user\Desktop\task-modifier\task-modifier\obj\Debug\netcoreapp3.1\task-modifier.genruntimeconfig.cache

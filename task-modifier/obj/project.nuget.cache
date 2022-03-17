@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SDtc+pF5FRpjYPk9pTxtC3qvKUHzNlC0V8dFnS1Zfzv9j3ftDTWgZWc5+qkoYP/lmjaaCSrkDIP2YU2TJAFhmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\task-modifier\\task-modifier\\task-modifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
